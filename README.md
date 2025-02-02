@@ -10,6 +10,8 @@
 </div>
 <br>
 
+<img width="1609" alt="ewave-app-screens" src="https://github.com/user-attachments/assets/e0acf81a-5ac6-4bc4-9c5e-f8078b581da1" />
+
 
 ## تطبيق Ewave  – رفيقك الأول في عالم التداول الرقمي
 
